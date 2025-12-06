@@ -17,8 +17,9 @@ AWS Lambda function that monitors daily GitHub commit activity and sends email s
 
 ## If you want to create your own instance of the project
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for complete AWS deployment instructions.
-See [SETUP_YOUR_OWN_INSTANCE](SET_UP_YOUR_OWN_INSTANCE.md) for setting this up for your own account. (The AWS configuration would be hard. The rest is just checking off the boxes in this file and ensuring it runs. Be advised that the code is in australian time but AWS runs on UTC. Ensure both of them are coordinated to receive the results at the right time)
+See [SETUP_YOUR_OWN_INSTANCE](SET_UP_YOUR_OWN_INSTANCE.md) for setting this up for your own account. 
+
+(The AWS configuration would be hard. The rest is just checking off the boxes in this file and ensuring it runs. Be advised that the code is in australian time but AWS runs on UTC. Ensure both of them are coordinated to receive the results at the right time)
 
 ## Requirements
 
